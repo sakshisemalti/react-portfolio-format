@@ -21,7 +21,7 @@ body::before {
   content: "";
   position: fixed;
 /*  background: #010e1b;
-*/  background: linear-gradient(to bottom,#af89d8 0%, #d9be8f 100%);
+*/  background: linear-gradient(to bottom,#505e89 0%, #d9be8f 100%);
 
   background-size: cover;
   left: 0;
