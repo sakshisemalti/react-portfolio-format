@@ -10,8 +10,6 @@ View the [Demo](https://sakshisemalti.github.io/react-portfolio-format/).
 
 **This template is free to use, and no attribution is required.** I have customized it for my own use.
 
-![screenshot](./src/assets/images/screenshot.png)
-
 ## Features
 
 ✅ Open source (free to use, no attribution required)  
