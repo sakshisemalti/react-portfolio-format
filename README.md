@@ -4,11 +4,11 @@
 
 ## What is this?
 
-This simple portfolio template is designed to showcase my projects, career history, skill sets, and more.
+This simple portfolio template is designed to showcase projects, career history, skill sets, and more.
 
 View the [Demo](https://sakshisemalti.github.io/react-portfolio-format/).
 
-**This template is free to use, and no attribution is required.** I have customized it for my own use.
+**This template is free to use, and no attribution is required.** I have customized it for general use.
 
 ## Features
 
